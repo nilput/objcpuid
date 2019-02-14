@@ -1,7 +1,7 @@
 # objcpuid
 a tool that analyzes an object file to determine what cpu features are required for its instructions.
 
-the primary use case is making sure assembly code is compaitable with whatever extensions you're targeting
+the primary use case is making sure assembly code is compatible with whatever extensions you're targeting
 
 it only supports x86_64 and ELF input files.
 ## usage
